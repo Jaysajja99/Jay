@@ -1,7 +1,7 @@
 ## Hello World 👋
 My name is Shree and I build data pipelines for a living! Currently, I am pursuing my master's in analytics and data science.
 
-I graduated from University of Texas at Dallas with a degree in business analytics, where I worked on some cool Generative AI and data engineering projects!
+I graduated from University of Texas at Dallas with a master's degree in business analytics, where I worked on some cool Generative AI and data engineering projects!
 
 
 - 💼 Hands-on experience with data migration projects between cloud data warehousing platforms.
