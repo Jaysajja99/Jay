@@ -1,5 +1,5 @@
 ## Hello World 👋
-My name is Sreedhar and I build data pipelines for a living! Currently, I am looking for an opportunity as a data engineer.
+My name is Sreedhar and I build data pipelines for a living! Currently, I am looking for an opportunity.
 
 I graduated from University of Texas at Dallas with a master's degree in business analytics, where I worked on some cool Generative AI and data engineering projects!
 
