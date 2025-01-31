@@ -1,5 +1,5 @@
 ## Hello World 👋
-My name is Jay and I build data pipelines for a living!
+My name is Shree and I build data pipelines for a living!
 
 I am a data engineer with a master's degree in analytics and I worked on some cool Generative AI and data engineering projects!
 
